@@ -13,3 +13,6 @@ Day Three - Ruby ✔️
 - Solved in naive imperative style, I sure could be solved using fancy Binary arithmetics
 - Error messages are informative and succinct
 - I feel like Ruby is more elegant, user friendly and readable than Python, just don't have a great std lib like Python.
+
+Day Four - Python ✔️
+- imperative is verbose 

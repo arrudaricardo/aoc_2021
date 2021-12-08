@@ -20,3 +20,5 @@ Day Four - Python ✔️
 Day Five - C# ✔️
 - Verbose 
 
+Day Five - C ✔️
+- Naive straight solution 

@@ -16,3 +16,7 @@ Day Three - Ruby ✔️
 
 Day Four - Python ✔️
 - imperative is verbose 
+
+Day Five - C# ✔️
+- Verbose 
+

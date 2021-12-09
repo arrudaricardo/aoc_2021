@@ -18,7 +18,11 @@ Day Four - Python ✔️
 - imperative is verbose 
 
 Day Five - C# ✔️
-- Verbose 
+- Verbose but easy to read 
 
-Day Five - C ✔️
-- Naive straight solution 
+Day Six - C ✔️
+- Naive straightforward solution 
+
+Day Seven - CoffeeScript ✔️
+- Feels like Ruby
+- Fun language for scripting 
